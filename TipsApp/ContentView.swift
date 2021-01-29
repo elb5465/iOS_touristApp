@@ -65,6 +65,14 @@ struct ContentView_Previews: PreviewProvider {
                 Image(systemName: "star.fill")
                 Text("Locations")
             }
+            
+            NavigationView{
+                TipsView()
+            }
+            .tabItem{
+                Image(systemName: "list.bullet")
+                Text("Tips")
+            }
         }
     }
 }

@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3D0FF77D25C3354200495FC9 /* Tip.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D0FF77C25C3354200495FC9 /* Tip.swift */; };
+		3D0FF78425C335FC00495FC9 /* TipsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D0FF78325C335FC00495FC9 /* TipsView.swift */; };
 		3D1BA27825C22BD700775BCD /* Location.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D1BA27725C22BD700775BCD /* Location.swift */; };
 		3D1BA27B25C2310E00775BCD /* Locations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D1BA27A25C2310E00775BCD /* Locations.swift */; };
 		3D1BA27F25C236A400775BCD /* WorldView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D1BA27E25C236A400775BCD /* WorldView.swift */; };
@@ -19,6 +21,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3D0FF77C25C3354200495FC9 /* Tip.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tip.swift; sourceTree = "<group>"; };
+		3D0FF78325C335FC00495FC9 /* TipsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipsView.swift; sourceTree = "<group>"; };
 		3D1BA27725C22BD700775BCD /* Location.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Location.swift; sourceTree = "<group>"; };
 		3D1BA27A25C2310E00775BCD /* Locations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Locations.swift; sourceTree = "<group>"; };
 		3D1BA27E25C236A400775BCD /* WorldView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorldView.swift; sourceTree = "<group>"; };
@@ -48,6 +52,8 @@
 			children = (
 				3D1BA27A25C2310E00775BCD /* Locations.swift */,
 				3D1BA27E25C236A400775BCD /* WorldView.swift */,
+				3D0FF77C25C3354200495FC9 /* Tip.swift */,
+				3D0FF78325C335FC00495FC9 /* TipsView.swift */,
 				3DE6701625C219F70031C793 /* TipsApp */,
 				3DE6701525C219F70031C793 /* Products */,
 			);
@@ -158,6 +164,8 @@
 				3DE6701A25C219F70031C793 /* ContentView.swift in Sources */,
 				3D1BA27825C22BD700775BCD /* Location.swift in Sources */,
 				3D1BA27F25C236A400775BCD /* WorldView.swift in Sources */,
+				3D0FF77D25C3354200495FC9 /* Tip.swift in Sources */,
+				3D0FF78425C335FC00495FC9 /* TipsView.swift in Sources */,
 				3D1BA27B25C2310E00775BCD /* Locations.swift in Sources */,
 				3DE6701825C219F70031C793 /* locationsJSON.swift in Sources */,
 			);
