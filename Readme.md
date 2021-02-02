@@ -19,7 +19,10 @@ The following **required** functionality is complete:
 
 ![2021-02-02 14 53 57](https://user-images.githubusercontent.com/30020234/106660206-b3f5c080-656d-11eb-9042-211b5ae19da6.gif)
 
+![2021-02-02 14 53 57](https://user-images.githubusercontent.com/30020234/106660688-52822180-656e-11eb-9b68-69befcfa3e23.mov)
+![2021-02-02 14 53 57](https://user-images.githubusercontent.com/30020234/106660688-52822180-656e-11eb-9b68-69befcfa3e23.gif)
 https://user-images.githubusercontent.com/30020234/106660688-52822180-656e-11eb-9b68-69befcfa3e23.mov
+https://user-images.githubusercontent.com/30020234/106660688-52822180-656e-11eb-9b68-69befcfa3e23.gif
 
 ## Notes
 
