@@ -17,7 +17,7 @@ The following **required** functionality is complete:
 
 ## Video Walkthrough
 
-<a href="//imgur.com/a/bdHJisH"> <img src="//imgur.com/a/bdHJisH.gif" title="test"/> </a>
+<a href="//imgur.com/a/bdHJisH"> <img src="//i.imgur.com/a/bdHJisH.gif" title="test"/> </a>
 
 ## Notes
 
