@@ -17,7 +17,7 @@ The following **required** functionality is complete:
 
 ## Video Walkthrough
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/bdHJisH"  ><a href="//imgur.com/a/bdHJisH">testing</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<href="//imgur.com/a/bdHJisH">
 
 ## Notes
 
