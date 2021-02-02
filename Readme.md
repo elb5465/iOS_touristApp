@@ -8,7 +8,7 @@ Time spent: **5** hours spent in total
 
 ## User Stories
 
-The following **required** functionality is complete:
+The following functionality is complete:
 
 * [x] User can pan around a map
 * [x] User can click on flags posted on the map, bringing them to an information page
@@ -22,9 +22,6 @@ The following **required** functionality is complete:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
-- Couldn't manage to get my second view to go into darkmode even when using notification pushes to send a message to the second view - It received the message but for some reason still wouldn't update the background color and all.
 
 
 ## References
