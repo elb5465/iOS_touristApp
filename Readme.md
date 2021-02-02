@@ -17,7 +17,7 @@ The following **required** functionality is complete:
 
 ## Video Walkthrough
 
-![](https:///imgur.com/a/bdHJisH.gif)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/bdHJisH"  ><a href="//imgur.com/a/bdHJisH">testing</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ## Notes
 
