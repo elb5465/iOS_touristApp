@@ -17,9 +17,8 @@ The following **required** functionality is complete:
 
 ## Video Walkthrough
 
-![2021-02-02 14 53 57](https://user-images.githubusercontent.com/30020234/106660206-b3f5c080-656d-11eb-9042-211b5ae19da6.gif)
+![](https://user-images.githubusercontent.com/30020234/106663036-2a47f200-6571-11eb-85a9-db727f1c0ba4.mov)
 
-![](https://user-images.githubusercontent.com/30020234/106660688-52822180-656e-11eb-9b68-69befcfa3e23.mov)
 
 ## Notes
 
