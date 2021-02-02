@@ -17,7 +17,8 @@ The following **required** functionality is complete:
 
 ## Video Walkthrough
 
-<a href="//imgur.com/gif/bdHJisH"> <img src="//i.imgur.com/bdHJisH.gif" title="test"/> </a>
+![2021-02-02 14 53 57](https://user-images.githubusercontent.com/30020234/106660206-b3f5c080-656d-11eb-9042-211b5ae19da6.gif)
+
 
 ## Notes
 
