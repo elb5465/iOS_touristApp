@@ -12,7 +12,7 @@ The following functionality is complete:
 
 * [x] User can pan around a map
 * [x] User can click on flags posted on the map, bringing them to an information page
-* [x] Third tab for users top view tips in a dropdown format.
+* [x] Third tab for users to view tips in a dropdown format.
 
 
 ## Video Walkthrough
