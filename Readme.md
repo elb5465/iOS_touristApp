@@ -1,8 +1,6 @@
 # *Tourist App*
 
-**TouristApp** is a demo application for iOS.
-
-Submitted by: **Eric Baker**
+Reference: Paul Hudson HackingWithSwift Tutorial
 
 Time spent: **5** hours spent in total
 
