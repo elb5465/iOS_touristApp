@@ -2,7 +2,7 @@
 
 Reference: Paul Hudson HackingWithSwift Tutorial
 
-Time spent: **5** hours spent in total
+Time spent: **5** hours 
 
 ## User Stories
 
